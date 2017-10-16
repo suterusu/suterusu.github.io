@@ -5,7 +5,7 @@
 			{
 				"appID": "K4D9F9M9RX.jp.creema.debug-creema-ios",
 				"paths": [ 
-					"*"
+					"/open/*"
 				]
 			}
 		]
