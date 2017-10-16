@@ -1,1 +1,13 @@
-{"applinks":{"apps":[],"details":{"PAKLV2RW9L.com.bandsintown.bit":{"paths":["*"]}}}}
+{
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "VAEW37C5T2.org.khanacademy.Khan-Academy",
+				"paths": [ 
+					"*"
+				]
+			}
+		]
+	}
+}
