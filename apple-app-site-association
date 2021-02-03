@@ -1,13 +1,5 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "K4D9F9M9RX.jp.creema.debug-creema-ios",
-				"paths": [ 
-					"/open/*"
-				]
-			}
-		]
-	}
+    "webcredentials": {
+        "apps": [ "3AKMJEDD3X.aaa.klklklkllklklklklklklkl" ]
+    }
 }
