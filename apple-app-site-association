@@ -1,0 +1,14 @@
+{
+    "webcredentials": {
+        "apps": [
+            "RL8JK6482D.ios.sumagaku.dev"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "RL8JK6482D.ios.sumagaku.dev",
+            "paths": ["*"]
+            }]
+    }
+}
