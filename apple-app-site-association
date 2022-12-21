@@ -1,13 +1,13 @@
 {
     "webcredentials": {
         "apps": [
-            "RL8JK6482D.ios.sumagaku.dev"
+            "978R25Z3XR.jp.co.aperi-dx.sumagaku"
         ]
     },
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "RL8JK6482D.ios.sumagaku.dev",
+            "appID": "978R25Z3XR.jp.co.aperi-dx.sumagaku",
             "paths": ["*"]
             }]
     }
