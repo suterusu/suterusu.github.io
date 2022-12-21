@@ -8,7 +8,7 @@
         "apps": [],
         "details": [{
             "appID": "978R25Z3XR.jp.co.aperi-dx.sumagaku",
-            "paths": ["*"]
+            "paths": []
             }]
     }
 }
